@@ -25,11 +25,5 @@ func main() {
 		}		
 	}
 	fmt.Println(aux)
-	fmt.Println(len(s), cap(s))
-
-	for i, v := range s {
-		fmt.Println(i,v)
-	}
-
-	
+		
 }
