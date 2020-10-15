@@ -2,10 +2,6 @@ package main
 
 import "fmt"
 
-func main()  {
-	fmt.Println("Hola Mundo!") // eliminar esta línea
-}import "fmt"
-
 func main() {
 	var tam int
 	var num int
